@@ -5,4 +5,4 @@ credentials/
 *.xlsx
 
 #Do-Not ignore specific file
-# !FOLDERNAME/Excelfile.xlsx
+# !FOLDERNAME/Excelfile.xlsx or # !sample.xlsx
