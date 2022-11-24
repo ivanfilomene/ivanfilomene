@@ -1,0 +1,8 @@
+# Ignore folder
+credentials/
+
+#Ignore All (xlsx) files
+*.xlsx
+
+#Do-Not ignore specific file
+# !FOLDERNAME/Excelfile.xlsx or # !sample.xlsx
